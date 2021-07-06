@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 👨 I'm Yadlapalli Venkata Raj Kumar
+- 👀 I'm interested in programming
 - 💻 I'm a Full Stack Web Developer
 - 📫 How to reach me: https://www.linkedin.com/in/yvrk
 
